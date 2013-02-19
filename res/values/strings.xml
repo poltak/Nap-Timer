@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nap Timer</string>
+    <string name="edit_message">Enter number of minutes</string>
+    <string name="bad_number_message">Please insert a positive integer</string>
+    <string name="button_set">Set</string>
+    <string name="title_activity_display_message">Wake time</string>
+
+</resources>

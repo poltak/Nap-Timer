@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myfirstapp"
+    package="com.poltak.NapTimer"
     android:versionCode="1"
     android:versionName="1.0" >
     
@@ -30,7 +30,7 @@
             android:parentActivityName="com.poltak.NapTimer.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.myfirstapp.MainActivity" />
+                android:value="com.poltak.NapTimer.MainActivity" />
         </activity>
     </application>
 

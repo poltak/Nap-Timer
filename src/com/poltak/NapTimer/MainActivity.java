@@ -2,7 +2,7 @@ package com.poltak.NapTimer;
 
 import java.util.Calendar;
 
-import com.example.myfirstapp.R;
+import com.poltak.NapTimer.R;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -16,7 +16,7 @@ import android.widget.EditText;
 public class MainActivity extends Activity
 {
 	public final static String EXTRA_MINUTES = 
-			"com.example.myfirstapp.MINUTES";
+			"com.poltak.NapTimer.MINUTES";
 	private final static int BAD_NUMBER = -1;
 	
 	@Override
